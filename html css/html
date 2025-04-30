@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Pet Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Pet World!</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Cute Kittens</h2>
+      <img src="kitten.jpg" alt="Cute Kitten">
+      <p>Kittens are adorable and playful.</p>
+    </section>
+
+    <section>
+      <h2>Playful Puppies</h2>
+      <img src="puppy.jpg" alt="Playful Puppy">
+      <p>Puppies are full of energy and love to fetch.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 My Pet Website</p>
+  </footer>
+</body>
+</html>
